@@ -4,7 +4,7 @@
 <!--**Quise mostrar en un 80% mi parte profesional, pero tambien que hay otros hobbies como la comida y el viajar**-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=A98062&lines=AI+Data+Scientist;Machine+Learning+Engineer;%7C+AI+Models+%7C+Gastronomy+Traveler;&center=true&width=500&height=50&size=24&duration=3000&pause=1000"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=A98062&lines=AI+Data+Scientist;Machine+Learning+Engineer;%7C+AI+Models+%7C+Gastronomy+%7C+Traveler;&center=true&width=500&height=50&size=24&duration=3000&pause=1000"></a>
 </p>
 <!--**Poner los perfiles que por el momento me parecen relevantes ( recuerda armar rapido tu website para ponerlo aqui )**-->
 <p align="center">
