@@ -34,7 +34,7 @@
 <li>🧠 I'm learning about Data Pipelines, Deep Learning, and Advanced Statistical Analysis.</li>
 <li>👥 I'm open to collaborating on educational projects.</li>
 <li> During my free time, I love playing board games🎲, badminton🏸, cycling🚴🏻‍♀, improving my cooking skills👩‍🍳, reading about history, fantasy, horror, and technology📚, and traveling the world🌎.</li><br>
-<p><img src="https://komarev.com/ghpvc/?username=meisun0107&amp;color=A98062&amp;label=%F0%9F%8D%A8_Nice_To_Meet_U!_You+are+my+visitor+No." alt="">
+<p><img src="https://komarev.com/ghpvc/?username=ValeryOrjuela&amp;color=A98062&amp;label=%F0%9F%8D%A8_Nice_To_Meet_U!_You+are+my+visitor+No." alt="">
 <br></p>
 <h2 id="Industries">Industries </h2>
 <p>Goverment | Marketing | Finances | Retail | Insurance</p>
