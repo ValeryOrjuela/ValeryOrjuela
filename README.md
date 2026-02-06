@@ -4,7 +4,7 @@
 <!--**Quise mostrar en un 80% mi parte profesional, pero tambien que hay otros hobbies como la comida y el viajar**-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=A98062&lines=AI+Engineer;Data+Scientist;Machine+Learning+Engineer;%7C+Modeling+%7C+Gastronomy+%7C+Traveler;&center=true&width=500&height=50&size=24&duration=3000&pause=1000"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=A98062&lines=Data+Engineer;Data+Scientist;Machine+Learning+Engineer;%7C+Modeling+%7C+Gastronomy+%7C+Traveler;&center=true&width=500&height=50&size=24&duration=3000&pause=1000"></a>
 </p>
 <!--**Poner los perfiles que por el momento me parecen relevantes ( recuerda armar rapido tu website para ponerlo aqui )**-->
 <p align="center">
@@ -28,16 +28,16 @@
     As a Machine Learning Engineer, I have built and deployed models for customer retention, product recommendation, and emotion detection using tools like TensorFlow, Scikit-Learn, and Hugging Face Transformers. I am also working independently on various projects, including building my personal website focused on technology from my perspective, developing a travel app, and actively participating in hackathons to further expand my skills and knowledge.
 </p>
 <h2 id="Moreabout">More about me 👩🏼‍🦰</h2>
-<li>💻 Currently working as: Analytics Engineer at a health tech company (IETS - Colombia).</li>
-<li>👩‍🎓 I studied Chemical Engineering and I’m about to complete my Master’s degree in Data Engineering and Analytics.</li>
+<li>💻 Currently working as: Data Engineer at a consultory tech company (LP Pursuits - Remote).</li>
+<li>👩‍🎓 I studied Chemical Engineering and I have a Master’s degree in Data Engineering and Analytics.</li>
 <li>📮 You can contact me via email: <a href="mailto:valeryp.orjuelal@gmail.com">valeryp.orjuelal@gmail.com</a>.</li>
-<li>🧠 I'm learning about Data Pipelines, Deep Learning, and Advanced Statistical Analysis.</li>
+<li>🧠 I'm learning about Soft skills, Deep Learning, and Advanced Statistical Analysis.</li>
 <li>👥 I'm open to collaborating on educational projects.</li>
-<li> During my free time, I love playing board games🎲, badminton🏸, cycling🚴🏻‍♀, improving my cooking skills👩‍🍳, reading about history, fantasy, horror, and technology📚, and traveling the world🌎.</li><br>
+<li> During my free time, I love playing board games🎲, badminton🏸, cycling🚴🏻‍♀, improving my cooking skills👩‍🍳, reading about history, fantasy, science, and technology📚, and traveling the world🌎.</li><br>
 <p><img src="https://komarev.com/ghpvc/?username=ValeryOrjuela&amp;color=A98062&amp;label=%F0%9F%8D%A8_Nice_To_Meet_U!_You+are+my+visitor+No." alt="">
 <br></p>
 <h2 id="Industries">Industries </h2>
-<p> Retail | Insurance | Goverment | Marketing | Finances </p>
+<p> Retail | Insurance | Goverment | Marketing | Finances | Tourism </p>
 <h2 id="Languaantol">Languages and Tools:</h2>
 <div align="left">
   
